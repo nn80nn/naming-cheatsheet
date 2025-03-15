@@ -3,7 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-123456
+12345678
 # Naming cheatsheet
 
 - [English language](#english-language)
